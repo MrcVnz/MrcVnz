@@ -117,4 +117,4 @@ Marcus Vnz
 
 </p>
 
-![snake gif](https://github.com/MrcVnz/MrcVnz/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MrcVnz/MrcVnz/blob/output/github-contribution-grid-snake.svg?raw=true)
