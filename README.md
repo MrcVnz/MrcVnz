@@ -44,7 +44,7 @@ My work involves:
 
 ---
 
-# 🧬 Languages
+# Languages
 
 ```text
 .java
@@ -56,7 +56,7 @@ My work involves:
 
 ---
 
-# 🔬 Cybersecurity
+# Cybersecurity
 
 ```
 Binary Analysis
@@ -69,7 +69,7 @@ Exploit Analysis
 
 ---
 
-# 🧠 Philosophy
+# Philosophy
 
 ```
 Security is curiosity applied to systems.
@@ -82,7 +82,7 @@ Every binary is a puzzle waiting to be solved.
 
 ---
 
-# 🛰️ Fields of Exploration
+# Fields of Exploration
 
 ```
 Cybersecurity
@@ -95,7 +95,7 @@ Software Internals
 
 ---
 
-# ⚠️ Disclaimer
+# Disclaimer
 
 All tools and research here are intended for:
 
