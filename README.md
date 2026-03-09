@@ -11,9 +11,21 @@
 
 username: Marcus Vnz
 role: Cybersecurity Engineer / Reverse Engineer
-languages: Java • Python • JavaScript • TypeScript
-focus: Security • Reverse Engineering • Backend Systems
-status: Exploring Systems
+
+primary_languages:
+  Java • Python • JavaScript • TypeScript
+
+systems_languages:
+  C • C++ • Rust • Go • Assembly
+
+scripting:
+  Bash • Python
+
+focus:
+  Security • Reverse Engineering • Backend Systems
+
+status:
+  Exploring Systems
 ```
 
 ---
@@ -25,10 +37,12 @@ Security engineer focused on **understanding software at its deepest levels**.
 My work involves:
 
 * Reverse engineering binaries
-* Security research
+* Vulnerability research
+* Binary analysis
 * Backend engineering
 * Automation tools
 * System internals
+* Low level debugging
 
 > “Every program eventually reveals its secrets.”
 
@@ -38,7 +52,7 @@ My work involves:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,linux,docker,git,postgresql" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,c,cpp,rust,go,linux,docker,git,postgresql,bash" />
 
 </p>
 
@@ -51,7 +65,29 @@ My work involves:
 .py
 .js
 .jsx
+.ts
 .tsx
+.c
+.cpp
+.rs
+.go
+.asm
+.sh
+```
+
+---
+
+# Reverse Engineering
+
+```
+Binary Analysis
+Disassembly
+Static Analysis
+Dynamic Analysis
+Debugging
+Malware Analysis
+Exploit Analysis
+System Internals
 ```
 
 ---
@@ -59,12 +95,24 @@ My work involves:
 # Cybersecurity
 
 ```
-Binary Analysis
-Reverse Engineering
-Static Analysis
-System Internals
-Security Research
-Exploit Analysis
+Vulnerability Research
+Security Engineering
+Threat Analysis
+Exploit Research
+Application Security
+Defensive Security
+```
+
+---
+
+# Engineering
+
+```
+Backend Engineering
+Distributed Systems
+Automation Tools
+Software Internals
+System Architecture
 ```
 
 ---
@@ -91,6 +139,8 @@ Backend Engineering
 Distributed Systems
 Automation Tools
 Software Internals
+Operating Systems
+Binary Security
 ```
 
 ---
@@ -99,8 +149,8 @@ Software Internals
 
 All tools and research here are intended for:
 
-• Educational purposes
-• Security research
+• Educational purposes  
+• Security research  
 • Defensive cybersecurity
 
 ---
