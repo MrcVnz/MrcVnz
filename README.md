@@ -116,3 +116,5 @@ Understanding code
 Marcus Vnz
 
 </p>
+
+![snake gif](https://github.com/MrcVnz/MrcVnz/blob/output/github-contribution-grid-snake.svg)
