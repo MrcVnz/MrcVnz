@@ -95,7 +95,7 @@ extra behavior inside the cheats I distributed.
 People downloaded the cheats expecting only
 the functionality they were told about.
 
-But the programs also executed additional payloads.
+But the programs also executed additional payloads/trojans.
 
 Through that I managed to access their PC's.
 
