@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="20" role="img" aria-label="Windows">
+  <title>Windows</title>
+  <rect width="82" height="20" rx="3" fill="#0078D4"/>
+  <rect x="6" y="5" width="5" height="5" fill="#fff"/>
+  <rect x="12" y="5" width="5" height="5" fill="#fff"/>
+  <rect x="6" y="11" width="5" height="5" fill="#fff"/>
+  <rect x="12" y="11" width="5" height="5" fill="#fff"/>
+  <text x="22" y="14" fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" font-weight="700">Windows</text>
+</svg>
