@@ -1,351 +1,89 @@
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=1000&lines=Marcus+Vnz;Cybersecurity+Engineer;Reverse+Engineer;Security+Researcher;System+Explorer;Backend+Developer" />
-
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MrcVnz&label=Profile%20Views&color=00ff41&style=flat"/>
-</p>
-
-<p align="center">
-
-```
-███╗   ███╗ █████╗ ██████╗  ██████╗██╗   ██╗███████╗
-████╗ ████║██╔══██╗██╔══██╗██╔════╝██║   ██║██╔════╝
-██╔████╔██║███████║██████╔╝██║     ██║   ██║███████╗
-██║╚██╔╝██║██╔══██║██╔══██╗██║     ██║   ██║╚════██║
-██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗╚██████╔╝███████║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
-
-ACCESSING SYSTEM...
-
-INITIALIZING TERMINAL...
-LOADING MEMORY SEGMENTS...
-ESTABLISHING SECURE CHANNEL...
-
-STATUS: ONLINE
-```
-
-</p>
+<img src="https://camo.githubusercontent.com/395674d543f97ea9bc84ee1c9cfbe0285687790ab1ad58e1fbcb8d4b8e0d5e8c/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d3336266475726174696f6e3d333030302670617573653d38303026636f6c6f723d3030464634312663656e7465723d74727565267643656e7465723d747275652677696474683d31303030266c696e65733d4d61726375732b566e7a3b437962657273656375726974792b456e67696e6565723b526576657273652b456e67696e6565723b53656375726974792b526573656172636865723b53797374656d2b4578706c6f7265723b4261636b656e642b446576656c6f706572" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=36&amp;duration=3000&amp;pause=800&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Marcus+Vnz;Cybersecurity+Engineer;Reverse+Engineer;Security+Researcher;System+Explorer;Backend+Developer" style="max-width: 100%;"><br>
+<p align="center" dir="auto"><img src="https://camo.githubusercontent.com/40a47de67f2dddff7fa520e3a7651445bda46a4e1b322f69f84ee676ef4981b1/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d7263566e7a266c6162656c3d50726f66696c65253230566965777326636f6c6f723d303066663431267374796c653d666c6174" data-canonical-src="https://komarev.com/ghpvc/?username=MrcVnz&amp;label=Profile%20Views&amp;color=00ff41&amp;style=flat" style="max-width: 100%;"></p>
 
 ---
 
-# Curiosities About Me
+## About
 
-<details>
-<summary> open /curiosities</summary>
+I work with security, reverse engineering and backend development. Most of what I do starts with a simple question: how does this system actually behave when you look at it closely?
+
+I like digging into binaries, internals, application security and the kind of problems that only show up when you stop trusting the surface layer.
 
 ---
 
+## Background
+
 <details>
-<summary> how_i_started.txt</summary>
+<summary>How I started</summary>
 
-```
-I didn’t enter programming through courses,
-bootcamps or a traditional path.
+<br>
 
-I learned everything the hard way.
+I didn't learn programming through courses or bootcamps. My first contact with code came around 2016, through a browser game called Transformice.
 
-Around 2016 my first contact with programming
-happened through a browser game called Transformice.
+I started looking for scripts, then writing small automations in Lua. At some point curiosity stopped being enough. I wanted to understand how things worked underneath, not just how to use them.
 
-Like many curious teenagers on the internet,
-I started searching for cheats and scripts.
+That path was messy, but it taught me early that software is something you can read, break apart and reason about.
 
-Eventually that curiosity led me to LUA scripting.
+</details>
 
-At first it was extremely simple:
-small scripts, automations, and experiments
-inside the game environment.
+<details>
+<summary>What changed my direction</summary>
 
-But curiosity grows fast when you start
-understanding that software can be manipulated.
+<br>
 
-Soon I wasn’t just running scripts.
+A lot of what I explored back then was chaotic. Games, servers, networks, misconfigured systems. Looking back, the important part wasn't the chaos itself.
 
-I was modifying them.
+It was realizing that most systems fail for boring reasons. Bad configuration. Blind trust. Small mistakes that turn into big openings.
 
-Breaking them.
-
-Understanding them.
-```
+At some point I stopped asking how to break things and started asking how they really work. That shift is what pushed me toward cybersecurity and reverse engineering.
 
 </details>
 
 ---
 
-<details>
-<summary> transformice_phase.txt</summary>
+## Tech Stack
 
-```
-During that time I started creating cheats
-for Transformice and sharing them with other players.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-The more I explored the scripts,
-the more I wanted to understand how the client worked.
+**Languages**
 
-How the game behaved internally.
-How scripts interacted with it.
-How programs executed code on a system.
+<img src="https://img.shields.io/badge/Assembly-525252?style=flat&logo=assemblyscript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white"/>
 
-Eventually I started experimenting with embedding
-extra behavior inside the cheats I distributed.
+</td>
+<td valign="top" width="50%">
 
-People downloaded the cheats expecting only
-the functionality they were told about.
+**Platform & Data**
 
-But the programs also executed additional payloads/trojans.
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
-Through that I managed to access their PC's.
-
-Today I look back at that phase very differently.
-
-It’s not something I’m proud of.
-
-But it was a brutal introduction to a very real lesson:
-
-most people blindly trust software they download.
-```
-
-</details>
-
----
-
-<details>
-<summary> minecraft_era.txt</summary>
-
-```
-After a while Transformice stopped being interesting.
-
-Minecraft servers were exploding in popularity,
-and thousands of community servers existed.
-
-Most of them were run by small groups
-with little knowledge about infrastructure or security.
-
-Together with a friend we started exploring
-how those servers worked.
-
-Plugins.
-
-Permissions.
-
-Administration systems.
-
-Configurations.
-
-A surprising number of servers were extremely vulnerable
-simply because they were badly configured.
-
-Many had permission systems that could be manipulated
-or plugins that allowed privilege escalation.
-
-For fun we would explore those weaknesses
-and sometimes end up with administrative roles
-inside servers.
-
-It was chaotic, stupid, and honestly hilarious
-at the time.
-
-But it also exposed me to something important:
-
-systems are rarely broken because of complex exploits.
-
-Most of the time they break because of
-human mistakes and poor configuration.
-```
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-<details>
-<summary> early_network_experiments.txt</summary>
-
-```
-Around that same time my curiosity expanded
-beyond games.
-
-I became interested in networks.
-
-Infrastructure.
-
-And how systems behaved under stress.
-
-I began experimenting with how online services
-reacted when they received unexpected traffic.
-
-That curiosity eventually escalated
-into larger experiments.
-
-At one point I attempted something that could
-be considered close to a large-scale DDoS event (And of course, I'm not going to mention the servers).
-
-Not something I look back on proudly.
-
-But those experiences forced me to learn
-a lot about infrastructure limits,
-network behavior,
-and system resilience.
-```
-
-</details>
-
----
-
-<details>
-<summary> hacker_group_period.txt</summary>
-
-```
-Between 2019 and 2020 I became involved with
-a group of hackers.
-
-During that time we participated in coordinated
-attacks against servers and websites
-belonging to public institutions in Brazil.
-
-Looking back now,
-that phase of my life was chaotic.
-
-A lot of curiosity,
-very little maturity,
-and a huge amount of experimentation.
-
-But it exposed me to things most developers
-never see so early:
-
-• reconnaissance
-• infrastructure attacks
-• coordinated operations
-• weaknesses in real-world systems
-```
-
-</details>
-
----
-
-<details>
-<summary> turning_point.txt</summary>
-
-```
-Eventually something changed.
-
-Instead of asking:
-
-"how can I break this?"
-
-I started asking:
-
-"how does this actually work?"
-
-That question changed everything.
-
-My curiosity shifted from breaking systems
-to understanding them.
-
-From exploitation to analysis.
-
-From chaos to engineering.
-
-That’s when cybersecurity
-and reverse engineering became
-the direction I truly wanted to pursue.
-```
-
-</details>
-
-</details>
-
----
-
-# Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
-
----
-
-# Reverse Engineering
-
-```
-Binary Analysis
-Disassembly
-Static Analysis
-Dynamic Analysis
-Debugging
-Malware Analysis
-Exploit Analysis
-System Internals
-```
-
----
-
-# Cybersecurity
-
-```
-Vulnerability Research
-Security Engineering
-Threat Analysis
-Exploit Research
-Application Security
-Defensive Security
-```
-
----
-
-# GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrcVnz&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00FF41&sideNums=00FF41&dates=AAAAAA" />
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrcVnz&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true" width="100%"/>
-</p>
-
----
-
-# Philosophy
-
-```
-Security is curiosity applied to systems.
-
-Reverse engineering is the art of understanding
-software without permission.
-
-Every binary is a puzzle waiting to be solved.
-```
-
----
-
-
-![snake gif](https://github.com/MrcVnz/MrcVnz/blob/output/github-contribution-grid-snake.svg?raw=true)
-
-
-01010011 01100101 01100011 01110101 01110010 01101001 01110100 01111001
+## Focus Areas
+| Reverse Engineering | Cybersecurity |
+| --- | --- |
+| Binary & malware analysis | Vulnerability research |
+| Static & dynamic analysis | Security engineering |
+| Debugging & disassembly | Application security |
+| System internals | Threat & exploit analysis |
