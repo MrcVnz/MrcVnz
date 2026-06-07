@@ -67,7 +67,7 @@ At some point I stopped asking how to break things and started asking how they r
 
 **Platform & Data**
 
-<img src="https://raw.githubusercontent.com/MrcVnz/MrcVnz/blob/main//windows.svg" alt="Windows"/>
+<img src="https://raw.githubusercontent.com/MrcVnz/MrcVnz/main//windows.svg" alt="Windows"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
